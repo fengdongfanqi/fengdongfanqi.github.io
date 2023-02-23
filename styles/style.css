@@ -97,10 +97,10 @@ table {
 .avatar {
     border: 1px solid rgba(255,255,255,.2);
     border-radius: 50%;
-    height: 150px;
+    height: 100px;
     margin: 0 auto;
     object-fit: cover;
-    width: 150px
+    width: 100px
 }
 
 .bg {
